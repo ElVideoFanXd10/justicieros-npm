@@ -50,16 +50,6 @@
 
 
 
-
-
-  justicierosConnect ,
-    addMoneyGlobal ,
-    depMoneyGlobal ,
-    withMoneyGlobal ,
-    adminaddMoneyGlobal ,
-    adminremoveMoneyGlobal,
-    seeMoneyGlobal,
-    seeMoneyBankGlobal,
 ## ImageGenerator
 
 > Quieres una imagen con tu avatar con distintos estilos? Usa estas funciones para eso!
